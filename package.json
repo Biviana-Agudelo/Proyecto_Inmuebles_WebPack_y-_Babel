@@ -1,8 +1,12 @@
 {
   "name": "inmuebles-wb",
   "version": "1.0.0",
-  "description": "Proyecto de inmuebles con webpack y babel.",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/Biviana-Agudelo/Proyecto_Inmuebles_WebPack_y-_Babel.git"
   },
-  "author": "Biviana Agudelo",
-  "license": "MIT",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Biviana-Agudelo/Proyecto_Inmuebles_WebPack_y-_Babel/issues"
   },
